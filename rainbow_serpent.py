@@ -73,7 +73,14 @@ while not end:
 		# if 
 	x += x_change
 	y += y_change
-	y_change += 0.05
+
+	if y <= 600 - orb_height:
+		y_change += 0.15
+	else:
+		y_change = 0
+
+	# if x <= 800 - orb_width and x > orb_width:
+
 	# gameDisplay.fill()
 	# gameDisplay.fill(white)
 	player(color, x, y)
