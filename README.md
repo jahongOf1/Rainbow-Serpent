@@ -26,5 +26,5 @@ kept the bug (I think) as a feature.
 3. Mechanics based on color.
 
 # Libraries I used
-Pygames
-And native libraries.
+1. Pygames
+2. Python libraries.
