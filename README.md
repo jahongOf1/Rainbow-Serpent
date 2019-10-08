@@ -28,3 +28,6 @@ kept the bug (I think) as a feature.
 # Libraries I used
 1. Pygames
 2. Python libraries.
+
+# Programs used
+GIMP was used to create the each of the ball.pngs.
